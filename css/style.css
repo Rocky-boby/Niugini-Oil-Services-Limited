@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap');
 
 @font-face {
-    font-family: 'YourFontName';
+    font-family: 'Arial';
     src: url('./ArialCE.ttf'); /*URL to font*/
 }
 
@@ -24,7 +24,7 @@ ul{
 	list-style: none;
 }
 p{
-    font-family: 'YourFontName', sans-serif !important;
+    font-family: 'Arial', sans-serif !important;
 }
 
 /*======top header start======*/
