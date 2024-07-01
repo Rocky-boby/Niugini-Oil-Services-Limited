@@ -91,7 +91,7 @@ p{
 
 /*======main header start=====*/
 .navbar-brand img {
-    max-width: 70px;
+    max-width: 360px;
 }
 #navbarSupportedContent {
     justify-content: center;
