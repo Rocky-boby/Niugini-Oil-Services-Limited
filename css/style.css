@@ -3,7 +3,7 @@
 
 @font-face {
     font-family: 'YourFontName';
-    src: url('http://domain.example/fonts/font.ttf'); /*URL to font*/
+    src: url('./ArialCE.ttf'); /*URL to font*/
 }
 
 body{
@@ -24,7 +24,7 @@ ul{
 	list-style: none;
 }
 p{
-    font-family: 'Rubik', sans-serif !important;
+    font-family: 'YourFontName', sans-serif !important;
 }
 
 /*======top header start======*/
