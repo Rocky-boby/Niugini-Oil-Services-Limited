@@ -121,7 +121,7 @@ p{
     left: 21px;
     width: 0%;
     height: 2px;
-    background-color: #4269d6;
+    background-color: #003399;
     transition: 0.5s;
     display: flex;
     align-items: center;
@@ -143,7 +143,7 @@ p{
     position: relative;
 }
 .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
-    color:#4269d6;
+    color:#003399;
 }
 .contact_btn_box {
     display: flex;
@@ -233,7 +233,7 @@ p{
 .banner_btn a {
     display: inline-block;
     text-align: center;
-    background: #4269d6;
+    background: #003399;
     padding: 12px 44px;
     border-top-left-radius: 20px;
     border-bottom-right-radius: 20px;
@@ -256,7 +256,7 @@ p{
     border-radius: 8px;
     line-height: 50px !important;
     outline: none;
-    background: #4269d6 !important;
+    background: #003399 !important;
 }
 .banner_area .owl-next {
     position: absolute;
@@ -265,7 +265,7 @@ p{
     color: #fff !important;
     width: 50px;
     height: 50px;
-    background: #4269d6 !important;
+    background: #003399 !important;
     text-align: center;
     border-radius: 8px;
     line-height: 50px !important;
@@ -305,7 +305,7 @@ button.owl-dot span {
     background-size: cover;
 }
 .heading-span {
-    color: #e3c520;
+    color: #ffcc00;
     letter-spacing: 1.5px;
     font-size: 18px;
     border-bottom: 1px dashed #d8be2b;
@@ -325,7 +325,7 @@ button.owl-dot span {
 }
 .about_btn {
     color: #fff;
-    background: #4269d6;
+    background: #003399;
     padding: 13px 25px;
     border-top-left-radius: 15px;
     border-bottom-right-radius: 15px;
@@ -334,7 +334,7 @@ button.owl-dot span {
     margin-top: 10px;
     text-decoration: none;
     transition: 0.5s;
-    border: 2px solid #4269d6;
+    border: 2px solid #003399;
 }
 .about_btn span{
 	color: #fff;
@@ -343,10 +343,10 @@ button.owl-dot span {
 .about_btn:hover{
 	background-color: transparent;
 	transition: 0.5s;
-	color:#4269d6;
+	color:#003399;
 }
 .about_btn:hover span{
-	color:#4269d6;
+	color:#003399;
 }
 .about_img {
     overflow: hidden;
@@ -456,19 +456,19 @@ button.owl-dot span {
     transition: all 500ms ease;
 }
 .know_more {
-    background: #4269d6;
+    background: #003399;
     color: #fff;
     text-transform: capitalize;
     border-radius: 15px 0px;
     letter-spacing: 0.5px;
     padding: 9px 35px;
     margin-top: 5px;
-    border: 2px solid #4269d6;
+    border: 2px solid #003399;
 }
 .know_more:hover{
     background: transparent;
-    color:#4269d6;
-    border-color: #4269d6;
+    color:#003399;
+    border-color: #003399;
 }
 /*=========services end============*/
 
@@ -510,7 +510,7 @@ button.owl-dot span {
 }
 .view_area a {
     color: #fff;
-    background: #4269d6;
+    background: #003399;
     padding: 13px 25px;
     border-top-left-radius: 15px;
     border-bottom-right-radius: 15px;
@@ -518,7 +518,7 @@ button.owl-dot span {
     line-height: 1;
     text-decoration: none;
     transition: 0.5s;
-    border: 2px solid #4269d6;
+    border: 2px solid #003399;
 }
 .view_area a span{
 	margin-left: 6px;
@@ -564,7 +564,7 @@ button.owl-dot span {
     content: "";
     width: 70%;
     height: 2px;
-    background-color: #4269d6;
+    background-color: #003399;
     position: absolute;
     left: 0;
     bottom: -1px;
@@ -574,7 +574,7 @@ button.owl-dot span {
     width: 8px;
     height: 8px;
     border-radius: 50%;
-    border: 2px solid #4269d6;
+    border: 2px solid #003399;
     position: absolute;
     left: 70%;
     bottom: -4px;
@@ -592,19 +592,19 @@ h3.t_text {
 
 
 .belief_item:hover .belief_item_img img{
-    border:1px solid #4269d6;
+    border:1px solid #003399;
     transition: all 500ms ease; 
 }
 
 .belief_item:hover .t_text{
-    color: #4269d6;
+    color: #003399;
     transition: all 500ms ease; 
 }
 .border_box {
     width: 70%;
     display: block;
     padding: 1px;
-    background: #4269d6;
+    background: #003399;
     margin-top: 40px;
     position: relative;
 }
@@ -613,7 +613,7 @@ h3.t_text {
     width: 8px;
     height: 8px;
     border-radius: 50%;
-    border: 2px solid #4269d6;
+    border: 2px solid #003399;
     position: absolute;
     right: -8px;
     top: -3px;
@@ -671,7 +671,7 @@ h3.t_text {
     font-size: 14px;
 }
 .pay_now {
-    background: #4269d6;
+    background: #003399;
     color: #fff;
     text-transform: capitalize;
     border-radius: 15px 0px;
@@ -707,7 +707,7 @@ h3.t_text {
     transition: 0.5s;
 }
 .quick_footer_links a:hover {
-    color: #4269d6;
+    color: #003399;
     transition: 0.5s;
 }
 .quick_footer_links a:last-child {
@@ -727,7 +727,7 @@ h3.t_text {
     color: #e0dede!important;
 }
 .submit_btn {
-    background: #4269d6;
+    background: #003399;
     color: #fff;
     text-transform: capitalize;
     border-radius: 15px 0px;
@@ -739,7 +739,7 @@ h3.t_text {
     background: #1e1a26;
 }
 .copy_right_sec p  a {
-    color: #4269d6;
+    color: #003399;
     text-decoration: none;
 }
 .copy_right_sec p {
