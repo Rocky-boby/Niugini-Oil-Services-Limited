@@ -756,6 +756,9 @@ h3.t_text {
     color: #fff;
     margin-bottom: 10px;
 }
+.contact_brand .navbar-brand img {
+    max-width:274px;
+}
 
 /*======== footer end  ==========*/
 
